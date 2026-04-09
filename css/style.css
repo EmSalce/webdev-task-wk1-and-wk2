@@ -1,0 +1,16 @@
+body {background-color:wheat
+}
+.head {
+    text-align:left;
+    color: blue;
+}
+
+.center {
+    text-align:center;
+    color: red;
+}
+
+.right {
+    text-align:right;
+    color:blueviolet;
+}
